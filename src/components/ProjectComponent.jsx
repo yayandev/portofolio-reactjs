@@ -15,7 +15,7 @@ const ProjectComponent = () => {
             <div className="overflow-hidden rounded-md shadow-md">
               <img
                 src="https://via.placeholder.com/200x200"
-                alt=""
+                alt="Gambar project"
                 className="w-full"
               />
             </div>
@@ -24,7 +24,7 @@ const ProjectComponent = () => {
             </h3>
 
             <a
-              href=""
+              href="/demo"
               className="rounded-full bg-[#14b8a6] px-8 py-3 text-base font-bold text-white transition duration-300 ease-in-out hover:opacity-90 hover:shadow-lg"
             >
               Demo
@@ -34,7 +34,7 @@ const ProjectComponent = () => {
             <div className="overflow-hidden rounded-md shadow-md">
               <img
                 src="https://via.placeholder.com/200x200"
-                alt=""
+                alt="gambar"
                 className="w-full"
               />
             </div>
@@ -43,7 +43,7 @@ const ProjectComponent = () => {
             </h3>
 
             <a
-              href=""
+              href="/demo"
               className="rounded-full bg-[#14b8a6] px-8 py-3 text-base font-bold text-white transition duration-300 ease-in-out hover:opacity-90 hover:shadow-lg"
             >
               Demo

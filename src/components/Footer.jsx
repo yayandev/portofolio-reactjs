@@ -7,7 +7,10 @@ const Footer = () => {
         <div className="w-full pt-10">
           <p className="text-center text-[0.75rem] font-medium text-slate-500">
             Dibuat dengan <span className="text-pink-500">❤</span> Oleh{" "}
-            <a href="" className="font-bold text-sky-500">
+            <a
+              href="https://yayanfaturrohman.my.id"
+              className="font-bold text-sky-500"
+            >
               Yayan
             </a>
             , Menggunakan{" "}
